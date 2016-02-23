@@ -1,6 +1,8 @@
-package com.example.foodhunter;
+package spbau.mit.degtjarenko.foodhunter.dishes;
 
 import java.util.ArrayList;
+
+import spbau.mit.degtjarenko.foodhunter.dishes.Dish;
 
 /**
  * Created by Ксения on 08.02.2016.

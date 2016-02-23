@@ -1,4 +1,4 @@
-package com.example.foodhunter;
+package spbau.mit.degtjarenko.foodhunter.dishes;
 
 /**
  * Created by Ксения on 08.02.2016.
